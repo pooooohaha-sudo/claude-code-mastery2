@@ -45,6 +45,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ---
 
 ## 개발 환경 설정
+OS : Windows 11
 
 ### 필수 도구
 - **텍스트 에디터**: VS Code 또는 선호하는 에디터
